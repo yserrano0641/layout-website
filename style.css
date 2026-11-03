@@ -33,8 +33,8 @@ p {
 .wrapper {
   width: 960px;
   margin: 0 auto;
-  background-color: yellow;
 }
+
 .hero-banner {
   background-color: #007fff;
   min-height: 100vh;
@@ -155,4 +155,21 @@ nav ul li a {
 
 .more-info {
   text-align: center;
+}
+
+.more-info p {
+  margin: 18px 0 40px 35px;
+}
+
+.more-info h2 {
+  margin: 50px 0 0;
+}
+
+.highlight {
+  background-color: #ffadf9;
+  color: #ff3300;
+  padding: 5px 10px;
+  line-height: 50px;
+  display: inline;
+  font-weight: 800;
 }
